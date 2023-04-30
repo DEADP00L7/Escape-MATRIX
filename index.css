@@ -1,0 +1,38 @@
+body{
+    background-image: url(pexels-dana-tentis-370799.jpg);
+    background-attachment: fixed;
+}
+
+#h1{
+    background-color: aqua;
+    width: fit-content;
+}
+
+#div1{
+    border-style: none;
+    width:fit-content;
+    height:fit-content;
+    background-image: url(images.jpg);
+    background-size: cover;
+}
+
+#at{
+    background-color:bisque;
+    width: fit-content;
+}
+
+#ad2{
+    color: gold;
+}
+
+.border{
+    border-style: groove;
+    border-color: bisque;
+    background-size: cover;
+}
+
+#mr{
+    border-style: none;
+    background-image: url(Smooth.jpg);
+    color: burlywood;
+}
